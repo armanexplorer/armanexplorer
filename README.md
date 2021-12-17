@@ -1,5 +1,5 @@
 
-<img src="https://www.eastmojo.com/wp-content/uploads/2021/12/berlin.jpg"/>
+<img src="https://www.eastmojo.com/wp-content/uploads/2021/12/berlin.jpg" width="60%"/>
 
 ## Intro Code :man_technologist:
 ```python
