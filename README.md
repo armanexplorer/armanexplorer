@@ -4,11 +4,13 @@
 </div>
 &nbsp;
 <div align="center">
-<figcaption align="center">source: <a href="https://www.eastmojo.com/entertainment/2021/12/01/ahead-of-money-heist-grand-finale-netflix-announces-spin-off-series-berlin-all-you-need-to-know/">EastMojo</figcaption>
-  </div>
+<figcaption align="center">
+  source: <a href="https://www.eastmojo.com/entertainment/2021/12/01/ahead-of-money-heist-grand-finale-netflix-announces-spin-off-series-berlin-all-you-need-to-know/">EastMojo</a>
+</figcaption>
+</div>
 
 ## Top Skills 💣
-* `Django Full-Stack Developer`
+* `Django Full-Stack`
   <br><br>
   <img src="https://img.shields.io/badge/django-0A66C2.svg?style=flat&logo=django&logoColor=white&color=092E20" alt="Django"/>
   <img src="https://img.shields.io/badge/Python-0A66C2.svg?style=flat&logo=Python&logoColor=white&color=3776AB" alt="Python"/>
@@ -33,7 +35,7 @@
   <img src="https://img.shields.io/badge/Figma-0A66C2.svg?style=flat&logo=Figma&logoColor=white&color=F24E1E" alt="Figma"/>
   <img src="https://img.shields.io/badge/Material Design-0A66C2.svg?style=flat&logo=Material Design&logoColor=white&color=757575" alt="Material Design"/>
   <br><br>
-* `DevOps Engineer`
+* `DevOps Engineering`
   <br><br>
   <img src="https://img.shields.io/badge/CentOS-0A66C2.svg?style=flat&logo=centos&logoColor=white&color=262577" alt="CentOS"/>
   <img src="https://img.shields.io/badge/Debian-0A66C2.svg?style=flat&logo=Debian&logoColor=white&color=A81D33" alt="Debian"/>
@@ -60,14 +62,14 @@
   <img src="https://img.shields.io/badge/Apache-0A66C2.svg?style=flat&logo=Apache&logoColor=white&color=D22128" alt="Apache"/>
   <img src="https://img.shields.io/badge/Let’s Encrypt-0A66C2.svg?style=flat&logo=Let’s Encrypt&logoColor=white&color=003A70" alt="Let’s Encrypt"/>
   <br><br>
-* `Project Manager`
+* `Project Management`
   <br><br>
   <img src="https://img.shields.io/badge/Azure DevOps-0A66C2.svg?style=flat&logo=Azure DevOps&logoColor=white&color=0078D7" alt="Azure DevOps"/>
   <img src="https://img.shields.io/badge/ClickUp-0A66C2.svg?style=flat&logo=ClickUp&logoColor=white&color=7B68EE" alt="ClickUp"/>
   <img src="https://img.shields.io/badge/Slack-0A66C2.svg?style=flat&logo=Slack&logoColor=white&color=4A154B" alt="Slack"/>
   <img src="https://img.shields.io/badge/Trello-0A66C2.svg?style=flat&logo=Trello&logoColor=white&color=0052CC" alt="Trello"/>
   <br><br>
-* `Software Engineer`
+* `Software Engineering`
   <br><br>
   <img src="https://img.shields.io/badge/PHP-0A66C2.svg?style=flat&logo=PHP&logoColor=white&color=777BB4" alt="PHP"/>
   <img src="https://img.shields.io/badge/Composer-0A66C2.svg?style=flat&logo=Composer&logoColor=white&color=885630" alt="Composer"/>
@@ -152,11 +154,15 @@ print(intro)
 #### 3️⃣:	I’m currently working on Vitalizing Freelance Projects as `Product Owner`, `Project Manager` and 
 #### `Full-Stack Backend Developer`
 #### 4️⃣:	I’m interested in `Backend Development` , `System Administration` , `Project Management` , `Optimising` ,
-####  `Problem Solving` , `Walking` , [Berlin](https://en.wikipedia.org/wiki/Berlin_(Money_Heist))
+#### `Problem Solving` , `Walking`, [Berlin](https://en.wikipedia.org/wiki/Berlin_(Money_Heist))  
 #### 5️⃣:	You can reach me by Email with armanexplorer@gmail.com or by Telegram with [ArmanMZD](https://telegram.me/ArmanMZD)  
-#### 6️⃣:	I’ll be really glad to talk to you ;)  
-  
-## Contact me:
+#### 6️⃣:	I’ll be really glad to talk to you ;)
+
+<br>
+
+## Contact me :gem:
+<br>
+<div align='center'>
 <a href="https://linkedin.com/in/armanexplorer" target="_blank">
   <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="mailto:armanexplorer@gmail.com" target="_blank">
@@ -165,6 +171,9 @@ print(intro)
 <a href="https://t.me/armanexplorer" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-0A66C2.svg?style=flat&logo=telegram&color=26A5E4&logoColor=white" alt="Telegram"/>
 </a>
+<br><br>
+<img src='https://upload.wikimedia.org/wikipedia/en/4/45/Berlin_%28Money_Heist%29.jpg' align='center'/>
+ </div>
   
 <!---
 armanexplorer/armanexplorer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
