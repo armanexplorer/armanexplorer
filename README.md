@@ -1,5 +1,6 @@
-
 <img src="https://www.eastmojo.com/wp-content/uploads/2021/12/berlin.jpg" width="60%"/>
+
+ 
 
 ## Intro Code :man_technologist:
 ```python
@@ -40,12 +41,12 @@ print(intro)
 ## Output :cup_with_straw:
 #### 0️⃣:	Hi, I’m `armanexplorer` 👋
 #### 1️⃣:	I’m an `Optimizer` + `Problem Solver` Geek
-#### 2️⃣: I’m skilled in `Django Full-Stack Development` , `DevOps Enginnering` , `Backend Engineering` , `Software Engineering` ,
-#### `Project Management`
+#### 2️⃣: I’m skilled in `Django Full-Stack Development` , `DevOps Enginnering` , `Backend Engineering` ,
+#### `Software Engineering` , `Project Management`
 #### 3️⃣:	I’m currently working on Vitalizing Freelance Projects as `Product Owner`, `Project Manager` and 
 #### `Full-Stack Backend Developer`
-#### 4️⃣:	I’m interested in `Backend Development` , `System Administration` , `Project Management` , `Optimising` , `Problem Solving`
-#### , `Walking` , [Berlin](https://en.wikipedia.org/wiki/Berlin_(Money_Heist))
+#### 4️⃣:	I’m interested in `Backend Development` , `System Administration` , `Project Management` , `Optimising` ,
+####  `Problem Solving` , `Walking` , [Berlin](https://en.wikipedia.org/wiki/Berlin_(Money_Heist))
 #### 5️⃣:	You can reach me by Email with armanexplorer@gmail.com or by Telegram with [ArmanMZD](https://telegram.me/ArmanMZD)  
 #### 6️⃣:	I’ll be really glad to talk to you ;)  
   
