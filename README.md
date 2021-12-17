@@ -157,9 +157,7 @@ print(intro)
 #### `Problem Solving` , `Walking`, [Berlin](https://en.wikipedia.org/wiki/Berlin_(Money_Heist))  
 #### 5️⃣:	You can reach me by Email with armanexplorer@gmail.com or by Telegram with [ArmanMZD](https://telegram.me/ArmanMZD)  
 #### 6️⃣:	I’ll be really glad to talk to you ;)
-
-<br>
-
+<img src='https://www.icegif.com/wp-content/uploads/icegif-852.gif' alt='The End!'></img>
 ## Contact me :gem:
 <br>
 <div align='center'>
