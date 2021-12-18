@@ -182,7 +182,7 @@ cur_skills = ['`Django Full-Stack Development`',
 cur_favs = ['`Backend Development`',
             '`System Administration`',
             '`Project Management`',
-            '`Optimising`',
+            '`Optimizing`',
             '`Problem Solving`',
             '`Walking`',
             '`Berlin`',
@@ -213,7 +213,7 @@ print(intro)
 #### 2️⃣: I’m skilled in `Django Full-Stack Development` , `DevOps Enginnering` , `Backend Engineering` ,
 #### `Software Engineering` , `Project Management`
 #### 3️⃣:	I’m currently working on Making Freelance Projects alive as `Full-Stack Django Developer` and `Project Manager`
-#### 4️⃣:	I’m interested in `Backend Development` , `System Administration` , `Project Management` , `Optimising` ,
+#### 4️⃣:	I’m interested in `Backend Development` , `System Administration` , `Project Management` , `Optimizing` ,
 #### `Problem Solving` , `Walking` , [Berlin](https://en.wikipedia.org/wiki/Berlin_(Money_Heist))  
 #### 5️⃣:	You can reach me by:
    * [Linkedin](https://www.linkedin.com/in/armanexplorer)
