@@ -11,7 +11,7 @@
 
 ## Top Skills 💣
 The followings are my top skills and surely my favorites. I tried to put the tools that I've been using to develop projects. I have more than two years of experience in most of them, and actually, I have more than one year of experience in each one.
-<br><br>
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ### Django Full-Stack
 ---
@@ -247,7 +247,7 @@ print(intro)
   image source: <a href="https://upload.wikimedia.org/wikipedia/en/4/45/Berlin_%28Money_Heist%29.jpg">WikiPedia</a>
 </figcaption>
 </div>
-  
+
 <!---
 armanexplorer/armanexplorer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
