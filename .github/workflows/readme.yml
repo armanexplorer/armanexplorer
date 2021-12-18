@@ -22,7 +22,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          path: assets
+          ref: 'assets'
+          fetch-depth: '0'
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
