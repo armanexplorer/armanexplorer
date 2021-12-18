@@ -24,6 +24,9 @@ jobs:
         with:
           ref: 'assets'
           fetch-depth: '0'
+      - name: Clear Target Directory
+        run: |
+          rm -rf dist
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
