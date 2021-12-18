@@ -11,7 +11,7 @@
 
 ## Top Skills 💣
 The followings are my top skills and surely my favorites. I tried to put the tools that I've been using to develop projects. I have more than two years of experience in most of them, and actually, I have more than one year of experience in each one.
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/armanexplorer/armanexplorer/assets/dist/github-snake.svg)
 
 ### Django Full-Stack
 ---
