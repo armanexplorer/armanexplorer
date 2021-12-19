@@ -222,7 +222,7 @@ print(intro)
 #### 6️⃣:	I’ll be glad to talk to you ;)
 ---
 <div align='center'>
-<img src='https://www.icegif.com/wp-content/uploads/icegif-852.gif' alt='The End!' align='center'></img>
+<img src='https://www.icegif.com/wp-content/uploads/icegif-852.gif' alt='The End!' align='center'/>
 </div>
 
 <!-- ## Contact me :gem: -->
