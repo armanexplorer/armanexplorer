@@ -1,7 +1,10 @@
 ## Let's go 🔥
 <div align="center">
-<img src="https://www.eastmojo.com/wp-content/uploads/2021/12/berlin.jpg" align="center" width="70%"/>
-<br/><figcaption align="center">
+  <img src="https://www.eastmojo.com/wp-content/uploads/2021/12/berlin.jpg" align="center" width="70%"/>
+</div>
+<br>
+<div align="center">
+<figcaption align="center">
   image source: <a href="https://www.eastmojo.com/entertainment/2021/12/01/ahead-of-money-heist-grand-finale-netflix-announces-spin-off-series-berlin-all-you-need-to-know/">EastMojo</a>
 </figcaption>
 </div>
@@ -200,7 +203,11 @@ cur_favs = ['`Backend Development`',
 ]
 cur_work = 'Making Freelance Projects alive as `Full-Stack Django Developer` and `Project Manager`'
 
-com_tools = {'Linkedin': 'https://www.linkedin.com/in/armanexplorer', 'Telegram': 'https://t.me/armanexplorer', 'Email': 'armanexplorer@gmail.com'}
+com_tools = {
+    'Linkedin': 'https://www.linkedin.com/in/armanexplorer',
+    'Telegram': 'https://t.me/armanexplorer',
+    'Email': 'armanexplorer@gmail.com'
+}
 
 # generate intro
 intro = (
