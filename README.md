@@ -81,7 +81,6 @@ The followings are my top skills and surely my favorites. I tried to put the too
   <img src="https://img.shields.io/badge/CMake-0A66C2.svg?style=flat&logo=CMake&logoColor=white&color=064F8C" alt="CMake"/>
   <img src="https://img.shields.io/badge/PowerShell-0A66C2.svg?style=flat&logo=PowerShell&logoColor=white&color=5391FE" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Windows Terminal-0A66C2.svg?style=flat&logo=Windows Terminal&logoColor=white&color=4D4D4D" alt="Windows Terminal"/>
-  <img src="https://img.shields.io/badge/CMake-0A66C2.svg?style=flat&logo=CMake&logoColor=white&color=064F8C" alt="CMake"/>
   </div>
   <br>
   <div>
