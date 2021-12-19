@@ -1,8 +1,7 @@
 ## Let's go 🔥
 <div align="center">
 <img src="https://www.eastmojo.com/wp-content/uploads/2021/12/berlin.jpg" align="center" width="70%"/>
-<br>
-<figcaption align="center">
+<br/><figcaption align="center">
   image source: <a href="https://www.eastmojo.com/entertainment/2021/12/01/ahead-of-money-heist-grand-finale-netflix-announces-spin-off-series-berlin-all-you-need-to-know/">EastMojo</a>
 </figcaption>
 </div>
@@ -180,7 +179,7 @@ The followings are my top skills and surely my favorites. I tried to put the too
   </div>
   <br>
   
-## Intro Code :man_technologist:
+## Intro Code 👨‍💻
 ```python
 me = '`armanexplorer`'
 
@@ -218,8 +217,9 @@ intro += 'I’ll be glad to talk to you ;)'
 
 print(intro)  
 ```
+<br>
 
-## Output :cup_with_straw:
+## Output 🥤
 #### 0️⃣:	Hi, I’m `armanexplorer` 👋
 #### 1️⃣:	I’m an `Optimizer` + `Problem Solver` Geek
 #### 2️⃣: I’m skilled in `Django Full-Stack Development` , `DevOps Enginnering` , `Backend Engineering` ,
@@ -233,14 +233,17 @@ print(intro)
    * [Email](mailto:armanexplorer@gmail.com)
 
 #### 6️⃣:	I’ll be glad to talk to you ;)
+
 ---
+
 <br>
 <div align='center'>
 <img src='https://www.icegif.com/wp-content/uploads/icegif-852.gif' alt='The End!' align='center'/>
 </div>
 <br>
-<!-- ## Contact me :gem: -->
+
 ---
+
 <br>
 <div align='center'>
 <a href="https://linkedin.com/in/armanexplorer" target="_blank">
