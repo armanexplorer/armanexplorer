@@ -187,7 +187,6 @@ cur_favs = ['`Backend Development`',
             '`Berlin`',
 ]
 cur_work = 'Making Freelance Projects alive as `Full-Stack Django Developer` and `Project Manager`'
-
 com_tools = {'Linkedin': 'https://www.linkedin.com/in/armanexplorer', 'Telegram': 'https://t.me/armanexplorer', 'Email': 'armanexplorer@gmail.com'}
 
 # generate intro
