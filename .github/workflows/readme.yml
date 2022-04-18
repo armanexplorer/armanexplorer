@@ -33,6 +33,6 @@ jobs:
         run: |
           git config --global user.name 'Arman'
           git config --global user.email 'armanexplorer@users.noreply.github.com'
-          git diff --exit-code || git commit -am "Snake files automatically generated"
+          git commit -am "Snake files automatically generated"
           git push
 
