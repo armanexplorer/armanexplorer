@@ -13,7 +13,7 @@
 The followings are my top skills and surely my favorites. I tried to put the tools that I've been using to develop projects. I have more than two years of experience in most of them, and actually, I have more than one year of experience in each one.
 ![](https://raw.githubusercontent.com/armanexplorer/armanexplorer/assets/dist/github-snake.svg)
 
-### Django Full-Stack
+### Web Full-Stack
 ---
   <div>
     <img src="https://img.shields.io/badge/django-0A66C2.svg?style=flat&logo=django&logoColor=white&color=092E20" alt="Django"/>
