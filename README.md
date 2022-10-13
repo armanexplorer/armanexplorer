@@ -10,7 +10,7 @@
 </div>
 
 ## Top Skills 💣
-The followings are my top skills and surely my favorites. I tried to put the tools that I've been using to develop projects. I have more than two years of experience in most of them, and actually, I have more than one year of experience in each one.
+The followings are my top skills and surely my favorites. I've been using these tools and technologies to make the projects come alive. I have more than THREE years of experience in most of them, and I have at least one year of experience in all of them.
 ![](https://raw.githubusercontent.com/armanexplorer/armanexplorer/assets/dist/github-snake.svg)
 
 ### Web Full-Stack
@@ -173,7 +173,7 @@ me = '`armanexplorer`'
 
 cur_charecter = 'Optimizer and Problem Solver Geek'
 cur_skills = ['`Django Full-Stack Development`',
-              '`DevOps Enginnering`',
+              '`DevOps Engineering`',
               '`Backend Engineering`',
               '`Software Engineering`',
               '`Project Management`',
@@ -193,9 +193,9 @@ com_tools = {'Linkedin': 'https://www.linkedin.com/in/armanexplorer', 'Telegram'
 intro = (
     f'Hi, I’m {me} 👋\n'
     f'I’m an {cur_charecter}\n'
-    f'I’m skilled in {" , ".join(cur_skills)}\n'
-    f'I’m currently working on {cur_work}\n'
-    f'I’m interested in {" , ".join(cur_favs)}\n'
+    f'I’m skilled in: {" , ".join(cur_skills)}\n'
+    f'I’m currently working on: {cur_work}\n'
+    f'I’m interested in: {" , ".join(cur_favs)}\n'
     f'You can reach me by:\n'
 )  
 for tool_name, tool_link in com_tools.items():
@@ -208,10 +208,10 @@ print(intro)
 ## Output :cup_with_straw:
 #### 0️⃣:	Hi, I’m `armanexplorer` 👋
 #### 1️⃣:	I’m an `Optimizer` + `Problem Solver` Geek
-#### 2️⃣: I’m skilled in `Django Full-Stack Development` , `DevOps Enginnering` , `Backend Engineering` ,
+#### 2️⃣: I’m skilled in: `Django Full-Stack Development` , `DevOps Engineering` , `Backend Engineering` ,
 #### `Software Engineering` , `Project Management`
-#### 3️⃣:	I’m currently working on Making Freelance Projects alive as `Full-Stack Django Developer` and `Project Manager`
-#### 4️⃣:	I’m interested in `Backend Development` , `System Administration` , `Project Management` , `Optimizing` ,
+#### 3️⃣:	I’m currently working on: Making Freelance Projects alive as `Full-Stack Django Developer` and `Project Manager`
+#### 4️⃣:	I’m interested in: `Backend Development` , `System Administration` , `Project Management` , `Optimizing` ,
 #### `Problem Solving` , `Walking` , [Berlin](https://en.wikipedia.org/wiki/Berlin_(Money_Heist))  
 #### 5️⃣:	You can reach me by:
    * [Linkedin](https://www.linkedin.com/in/armanexplorer)
