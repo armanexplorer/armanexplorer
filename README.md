@@ -11,10 +11,11 @@ I am Arman, educated and enthusiastic about *Software Engineering* and the chall
 </div>
 
 ## Top Skills 💣
-The followings are the stacks I had the chance to be mastered in them. I've been using these tools and technologies to make the projects serve best to their end users. My professional life has been affected by **Django & Python for +4 years**, and for **+3 years fascinated by DevOps**.
-![](https://raw.githubusercontent.com/armanexplorer/armanexplorer/assets/dist/github-snake.svg)
+The followings are the stacks I had the chance to penetrated deep into them. So, I've been using these tools and technologies to make the projects serve best to their end users. My professional life has been affected by **Django & Python for +4 years**, and for **+3 years fascinated by DevOps**.
 
 <div align="center">
+
+![](https://raw.githubusercontent.com/armanexplorer/armanexplorer/assets/dist/github-snake.svg)
 
 ---
 ### Django & Python Development
@@ -135,6 +136,7 @@ I have learned these skills on my own as self-taught skills. Being a quick learn
     <img src="https://img.shields.io/badge/Jupyter-0A66C2.svg?style=for-the-badge&logo=Jupyter&logoColor=white&color=F37626" alt="Jupyter"/>
     <img src="https://img.shields.io/badge/google colab-0A66C2.svg?style=for-the-badge&logo=googlecolab&logoColor=white&color=F9AB00" alt="Google Colab"/>
   </div>
+  <br/><br/>
 
 ---
 ### Other Software Engineering Tools & Skills
@@ -180,56 +182,56 @@ I have learned these skills on my own as self-taught skills. Being a quick learn
   
 ## Intro Code :man_technologist:
 ```python
-me = '`armanexplorer`'
+me = 'Arman'
 
-cur_charecter = 'Optimizer and Problem Solver Geek'
-cur_skills = ['`Django Full-Stack Development`',
-              '`DevOps Engineering`',
-              '`Backend Engineering`',
-              '`Software Engineering`',
-              '`Project Management`',
+character = 'Optimizer and Problem Solver Geek, dreaming better life for all the people around the world'
+top_skills = [
+  'Django Backend Development',
+  'DevOps Engineering'
 ]
-cur_favs = ['`Backend Development`',
-            '`System Administration`',
-            '`Project Management`',
-            '`Optimizing`',
-            '`Problem Solving`',
-            '`Walking`',
-            '`Berlin`',
+complementary_skills = [
+  'Project Management',
+  'Front-end Development'
 ]
-cur_work = 'Making Freelance Projects alive as `Full-Stack Django Developer` and `Project Manager`'
-com_tools = {'Linkedin': 'https://www.linkedin.com/in/armanexplorer', 'Telegram': 'https://t.me/armanexplorer', 'Email': 'armanexplorer@gmail.com'}
+interests = [
+  'Software Engineering',
+  'People',
+  'Solving Problems',
+  'Silence'
+]
+work = 'Making `WebSties` and `Telegram Bots` alive as `Django Backend Developer` and `DevOps Engineer`'
+contact_me = {'Linkedin': 'https://www.linkedin.com/in/armanexplorer', 'Telegram': 'https://t.me/armanexplorer', 'Email': 'armanexplorer@gmail.com'}
 
 # generate intro
 intro = (
-    f'Hi, I’m {me} 👋\n'
-    f'I’m an {cur_charecter}\n'
-    f'I’m skilled in: {" , ".join(cur_skills)}\n'
-    f'I’m currently working on: {cur_work}\n'
-    f'I’m interested in: {" , ".join(cur_favs)}\n'
-    f'You can reach me by:\n'
+    f'Hi, I’m `{me}`, an explorer one :) 👋\n'
+    f'Characteristically an {character}\n'
+    f'Experienced in `{"` , `".join(top_skills)}`\n'
+    f'Having also professional experiences in `{"` , `".join(complementary_skills)}`\n'
+    f'Currently working on {work}\n'
+    f'Fascinated by `{"` , `".join(interests)}`\n'
+    f'You can reach me by typing `armanexplorer` evereywhere :-)\n'
 )  
-for tool_name, tool_link in com_tools.items():
+for tool_name, tool_link in contact_me.items():
     intro += f'* [{tool_name}]({tool_link})\n'
-intro += 'I’ll be glad to talk to you ;)'
+intro += 'Always happy to hear from you ;)'
 
 print(intro)  
 ```
 
 ## Output :cup_with_straw:
-#### 0️⃣:	Hi, I’m `armanexplorer` 👋
-#### 1️⃣:	I’m an `Optimizer` + `Problem Solver` Geek
-#### 2️⃣: I’m skilled in: `Django Full-Stack Development` , `DevOps Engineering` , `Backend Engineering` ,
-#### `Software Engineering` , `Project Management`
-#### 3️⃣:	I’m currently working on: Making Freelance Projects alive as `Full-Stack Django Developer` and `Project Manager`
-#### 4️⃣:	I’m interested in: `Backend Development` , `System Administration` , `Project Management` , `Optimizing` ,
-#### `Problem Solving` , `Walking` , [Berlin](https://en.wikipedia.org/wiki/Berlin_(Money_Heist))  
-#### 5️⃣:	You can reach me by:
+#### 0️⃣:	Hi, I’m `Arman`, an explorer one :) 👋
+#### 1️⃣:	Characteristically an `Optimizer` and `Problem Solver` Geek, dreaming better life for the people
+#### 2️⃣: Experienced in `Django Backend Development` , `DevOps Engineering`
+#### 3️⃣: Having also professional experiences in `Project & Team Management` and `Front-end Development`
+#### 4️⃣:	Currently working on Making `WebSties` and `Telegram Bots` alive as `Django Backend Developer` and `DevOps Engineer`
+#### 5️⃣:	Fascinated by `Software Engineering`, `People` , `Solving Problems`, `Silence`
+#### 6️⃣:	You can reach me by typing `armanexplorer` evereywhere ;)
    * [Linkedin](https://www.linkedin.com/in/armanexplorer)
    * [Telegram](https://t.me/armanexplorer)
    * [Email](mailto:armanexplorer@gmail.com)
 
-#### 6️⃣:	I’ll be glad to talk to you ;)
+#### 7️⃣:	Always happy to hear from you ;)
 ---
 <div align='center'>
 <img src='docs/media/the-end.gif' alt='The End!' align='center' />
