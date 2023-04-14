@@ -20,6 +20,7 @@ The followings are the stacks I had the chance to penetrated deep into them. So,
 ---
 ### Django & Python Development
 ---
+  <br/>
   <div>
     <img src="https://img.shields.io/badge/django-0A66C2.svg?style=for-the-badge&logo=django&logoColor=white&color=092E20" alt="Django"/>
     <img src="https://img.shields.io/badge/Python-0A66C2.svg?style=for-the-badge&logo=Python&logoColor=white&color=3776AB" alt="Python"/>
@@ -44,6 +45,7 @@ The followings are the stacks I had the chance to penetrated deep into them. So,
 ---
 ### DevOps Engineering
 ---
+  <br/>
   <div>
     <img src="https://img.shields.io/badge/Github%20Actions-0A66C2.svg?style=for-the-badge&logo=GitHub%20Actions&logoColor=white&color=2088FF" alt="Github Actions"/>
     <img src="https://img.shields.io/badge/Vercel-0A66C2.svg?style=for-the-badge&logo=Vercel&logoColor=white&color=000000" alt="Vercel"/>
@@ -90,6 +92,7 @@ I have learned these skills on my own as self-taught skills. Being a quick learn
 ---
 ### Front-end Development & Desgin
 ---
+  <br/>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-0A66C2.svg?style=for-the-badge&logo=JavaScript&logoColor=white&color=F7DF1E" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/typescript-0A66C2.svg?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6" alt="TypeScript"/>
@@ -110,6 +113,7 @@ I have learned these skills on my own as self-taught skills. Being a quick learn
 ---
 ### Project & Team Management
 ---
+  <br/>
   <div>
     <img src="https://img.shields.io/badge/scrumalliance-0A66C2.svg?style=for-the-badge&logo=scrumalliance&logoColor=white&color=009FDA" alt="Scrum Alliance"/>
     <br/><br/>
@@ -125,6 +129,7 @@ I have learned these skills on my own as self-taught skills. Being a quick learn
 ---
 ### AI & Data Science
 ---
+  <br/>
   <div>
     <img src="https://img.shields.io/badge/pandas-0A66C2.svg?style=for-the-badge&logo=pandas&logoColor=white&color=150458" alt="pandas"/>
     <img src="https://img.shields.io/badge/NumPy-0A66C2.svg?style=for-the-badge&logo=NumPy&logoColor=white&color=00A3E0" alt="NumPy"/>
@@ -141,6 +146,7 @@ I have learned these skills on my own as self-taught skills. Being a quick learn
 ---
 ### Other Software Engineering Stacks
 ---
+  <br/>
   <div>
     <img src="https://img.shields.io/badge/WordPress-0A66C2.svg?style=flat&logo=WordPress&logoColor=white&color=21759B" alt="WordPress"/>
     <img src="https://img.shields.io/badge/WooCommerce-0A66C2.svg?style=flat&logo=WooCommerce&logoColor=white&color=96588A" alt="WooCommerce"/>
@@ -180,7 +186,7 @@ I have learned these skills on my own as self-taught skills. Being a quick learn
 </div>
 <br>
   
-## Intro Code :man_technologist:
+## Intro Code 👨‍💻
 ```python
 me = 'Arman'
 
@@ -219,7 +225,7 @@ intro += 'Always happy to hear from you ;)'
 print(intro)  
 ```
 
-## Output :cup_with_straw:
+## Output 🥤
 #### 0️⃣:	Hi, I’m `Arman`, an explorer one :) 👋
 #### 1️⃣:	Characteristically an `Optimizer` and `Problem Solver` Geek, dreaming better life for the people
 #### 2️⃣: Experienced in `Django Backend Development` , `DevOps Engineering`
@@ -234,7 +240,7 @@ print(intro)
 #### 7️⃣:	Always happy to hear from you ;)
 ---
 <div align='center'>
-<img src='docs/media/the-end.gif' alt='The End!' align='center' />
+<img src='assets/media/the-end.gif' alt='The End!' align='center' />
 </div>
 
 <!-- ## Contact me :gem: -->
