@@ -1,7 +1,3 @@
----
-permalink: index.html
----
-
 ## Let's go 🔥
 I am Arman, educated and enthusiastic about *Software Engineering* and the challenges involved with its evolution.
 <div align="center">
