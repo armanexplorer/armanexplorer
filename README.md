@@ -139,7 +139,7 @@ I have learned these skills on my own as self-taught skills. Being a quick learn
   <br/><br/>
 
 ---
-### Other Software Engineering Tools & Skills
+### Other Software Engineering Stacks
 ---
   <div>
     <img src="https://img.shields.io/badge/WordPress-0A66C2.svg?style=flat&logo=WordPress&logoColor=white&color=21759B" alt="WordPress"/>
@@ -199,7 +199,7 @@ interests = [
   'Solving Problems',
   'Silence'
 ]
-work = 'Making `WebSties` and `Telegram Bots` alive as `Django Backend Developer` and `DevOps Engineer`'
+work = 'Making `WebSties` and `Telegram Bots` alive as Django Backend Developer and DevOps Engineer'
 contact_me = {'Linkedin': 'https://www.linkedin.com/in/armanexplorer', 'Telegram': 'https://t.me/armanexplorer', 'Email': 'armanexplorer@gmail.com'}
 
 # generate intro
@@ -224,7 +224,7 @@ print(intro)
 #### 1️⃣:	Characteristically an `Optimizer` and `Problem Solver` Geek, dreaming better life for the people
 #### 2️⃣: Experienced in `Django Backend Development` , `DevOps Engineering`
 #### 3️⃣: Having also professional experiences in `Project & Team Management` and `Front-end Development`
-#### 4️⃣:	Currently working on Making `WebSties` and `Telegram Bots` alive as `Django Backend Developer` and `DevOps Engineer`
+#### 4️⃣:	<span> Currently working on Developing and Maintaining `WebSties` and `Telegram Bots` as Django Backend Developer and DevOps Engineer </span>
 #### 5️⃣:	Fascinated by `Software Engineering`, `People` , `Solving Problems`, `Silence`
 #### 6️⃣:	You can reach me by typing `armanexplorer` evereywhere ;)
    * [Linkedin](https://www.linkedin.com/in/armanexplorer)
@@ -242,12 +242,12 @@ print(intro)
 <br>
 <div align='center'>
 <a href="https://linkedin.com/in/armanexplorer" target="_blank">
-  <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="mailto:armanexplorer@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail-0A66C2.svg?style=flat&logo=gmail&color=EA4335&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/gmail-0A66C2.svg?style=for-the-badge&logo=gmail&color=EA4335&logoColor=white" alt="Telegram"/>
 </a>
 <a href="https://t.me/armanexplorer" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-0A66C2.svg?style=flat&logo=telegram&color=26A5E4&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-0A66C2.svg?style=for-the-badge&logo=telegram&color=26A5E4&logoColor=white" alt="Telegram"/>
 </a>
 <br><br>
 
