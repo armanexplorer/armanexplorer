@@ -240,7 +240,7 @@ print(intro)
 #### 7️⃣:	Always happy to hear from you ;)
 ---
 <div align='center'>
-<img src='assets/media/the-end.gif' alt='The End!' align='center' />
+<img src='/assets/media/the-end.gif' alt='The End!' align='center' />
 </div>
 
 <!-- ## Contact me :gem: -->

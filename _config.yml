@@ -4,3 +4,16 @@ title: Profile - armanexplorer planet
 description: Arman Mazloumzadeh, dedicated Django Backend Web Developer
 plugins:
   - jekyll-seo-tag
+
+defaults:
+  - 
+    space:
+      path: ""
+    values:
+      layout: "default"
+  # -
+  #   scope:
+  #     path: "" # an empty string here means all files in the project
+  #     type: "posts" # previously `post` in Jekyll 2.2.
+  #   values:
+  #     layout: "default"
