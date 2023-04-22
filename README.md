@@ -1,5 +1,5 @@
 ## Let's go 🔥
-I am Arman, educated and enthusiastic about *Software Engineering* and the challenges involved in its evolution path.
+I am Arman, educated and enthusiastic about *Software Engineering* and the challenges involved in its incredible evolutionary journey.
 <div align="center">
 <img src="https://www.eastmojo.com/wp-content/uploads/2021/12/berlin.jpg" align="center" width="70%"/>
 </div>
@@ -11,7 +11,7 @@ I am Arman, educated and enthusiastic about *Software Engineering* and the chall
 </div>
 
 ## Top Skills 💣
-The followings are the stacks I had the chance to penetrate deep into them. So, I've been using these tools and technologies to make the projects serve best to their end users. My professional life has been affected by **Django & Python for +4 years**, and fascinated by **DevOps for +3 years**.
+The followings are the stacks I had the chance to penetrate deep into them. So, I've been using these tools and technologies to make the projects serve best to their end users. My professional life has been affected by **Django & Python for +5 years**, and fascinated by **DevOps for +3 years**.
 
 <div align="center">
 
