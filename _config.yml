@@ -11,11 +11,6 @@ defaults:
       path: ""
     values:
       layout: "default"
-      image:
-        path: assets/favicon/mstile-150x150.png
-        height: 100
-        width: 100
-        alt: armanexplorer logo
   # -
   #   scope:
   #     path: "" # an empty string here means all files in the project
