@@ -1,11 +1,6 @@
 ---
 title: Arman Mazloumzadeh (@armanexplorer)
 description: I am Arman Mazloumzadeh, +5YRS Backend Web Developer and Software Engineer
-image:
-  path: assets/favicon/mstile-150x150.png
-  height: 100
-  width: 100
-  alt: armanexplorer logo
 ---
 
 I am Arman, educated and enthusiastic about *Software Engineering* and the challenges involved in its incredible evolutionary journey.

@@ -11,6 +11,7 @@ defaults:
       path: ""
     values:
       layout: "default"
+      image: assets/favicon/mstile-150x150.png
   # -
   #   scope:
   #     path: "" # an empty string here means all files in the project
