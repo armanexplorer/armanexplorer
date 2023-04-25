@@ -1,7 +1,7 @@
 theme: jekyll-theme-hacker
 markdown: GFM
-title: armanexplorer planet
-description: You can explore all about Software Engineering challagens in armanexplorer planet
+title: Arman Mazloumzadeh (@armanexplorer)
+description: I am Arman Mazloumzadeh, +5YRS Backend Web Developer and Software Engineer
 plugins:
   - jekyll-seo-tag
 
@@ -11,7 +11,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-      image: assets/favicon/mstile-150x150.png
+      image: /assets/favicon/mstile-150x150.png
   # -
   #   scope:
   #     path: "" # an empty string here means all files in the project
