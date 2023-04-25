@@ -1,4 +1,3 @@
-## Let's go 🔥
 I am Arman, educated and enthusiastic about *Software Engineering* and the challenges involved in its incredible evolutionary journey.
 <div align="center">
 <img src="https://www.eastmojo.com/wp-content/uploads/2021/12/berlin.jpg" align="center" width="70%"/>
