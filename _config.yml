@@ -1,7 +1,7 @@
 theme: jekyll-theme-hacker
 markdown: GFM
 title: Arman Mazloumzadeh (@armanexplorer)
-description: I am Arman Mazloumzadeh, +5YRS Backend Web Developer and Software Engineer
+description: +5YRS in Backend Web Developer / Software Engineer with Python and Django
 plugins:
   - jekyll-seo-tag
 
