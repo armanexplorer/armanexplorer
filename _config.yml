@@ -11,7 +11,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-      image: /assets/favicon/android-chrome-512x512.png
+      image: /assets/favicon/favicon3.png
   # -
   #   scope:
   #     path: "" # an empty string here means all files in the project
