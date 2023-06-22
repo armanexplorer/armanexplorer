@@ -10,7 +10,7 @@ I am Arman, educated and enthusiastic about *Software Engineering* and the chall
 </div>
 
 ## Top Skills 💣
-The followings are the stacks I had the chance to penetrate deep into them. So, I've been using these tools and technologies to make the projects serve best to their end users. My professional life has been affected by **Django & Python for +5 years**, and fascinated by **DevOps for +3 years**.
+The followings are the stacks I had the chance to penetrate deep into them. So, I've been using these tools and technologies to make the projects serve best to their end users. My professional life has been affected by **Django & Python for +5 years**, and fascinated by **Cloud for +3 years**.
 
 <div align="center">
 
@@ -42,7 +42,7 @@ The followings are the stacks I had the chance to penetrate deep into them. So, 
   <br/><br/>
   
 ---
-### DevOps Engineering
+### Cloud Developer
 ---
   <br/>
   <div>
@@ -125,7 +125,7 @@ I have learned these skills on my own as self-taught skills. Being a quick learn
   </div>
   <br/><br/>
   
----
+<!-- ---
 ### AI & Data Science
 ---
   <br/>
@@ -140,9 +140,9 @@ I have learned these skills on my own as self-taught skills. Being a quick learn
     <img src="https://img.shields.io/badge/Jupyter-0A66C2.svg?style=for-the-badge&logo=Jupyter&logoColor=white&color=F37626" alt="Jupyter"/>
     <img src="https://img.shields.io/badge/google colab-0A66C2.svg?style=for-the-badge&logo=googlecolab&logoColor=white&color=F9AB00" alt="Google Colab"/>
   </div>
-  <br/><br/>
+  <br/><br/> -->
 
----
+<!-- ---
 ### Other Software Engineering Stacks
 ---
   <br/>
@@ -183,8 +183,9 @@ I have learned these skills on my own as self-taught skills. Being a quick learn
     <img src="https://img.shields.io/badge/Bitbucket-0A66C2.svg?style=flat&logo=Bitbucket&logoColor=white&color=0052CC" alt="Bitbucket"/>
   </div>
 </div>
-<br>
-  
+<br> -->
+</div>
+
 ## Intro Code 👨‍💻
 ```python
 me = 'Arman'
@@ -192,7 +193,7 @@ me = 'Arman'
 character = 'Optimizer and Problem Solver Geek, dreaming better life for all the people around the world'
 top_skills = [
   'Django Backend Development',
-  'DevOps Engineering'
+  'Cloud Development'
 ]
 complementary_skills = [
   'Project Management',
@@ -204,7 +205,7 @@ interests = [
   'Solving Problems',
   'Silence'
 ]
-work = 'Making `WebSties` and `Telegram Bots` alive as Django Backend Developer and DevOps Engineer'
+work = 'Making `WebSties` and `Telegram Bots` alive as Django Backend Developer and Cloud Developer'
 contact_me = {'Linkedin': 'https://www.linkedin.com/in/armanexplorer', 'Telegram': 'https://t.me/armanexplorer', 'Email': 'armanexplorer@gmail.com'}
 
 # generate intro
@@ -215,7 +216,7 @@ intro = (
     f'Having also professional experiences in `{"` , `".join(complementary_skills)}`\n'
     f'Currently working on {work}\n'
     f'Fascinated by `{"` , `".join(interests)}`\n'
-    f'You can reach me by typing `armanexplorer` evereywhere :-)\n'
+    f'You can reach me by typing `armanexplorer` evereywhere\n'
 )  
 for tool_name, tool_link in contact_me.items():
     intro += f'* [{tool_name}]({tool_link})\n'
@@ -227,11 +228,11 @@ print(intro)
 ## Output 🥤
 #### 0️⃣:	Hi, I’m `Arman`, an explorer one :) 👋
 #### 1️⃣:	Characteristically an `Optimizer` and `Problem Solver` Geek, dreaming better life for the people
-#### 2️⃣: Experienced in `Django Backend Development` , `DevOps Engineering`
+#### 2️⃣: Experienced in `Django Backend Development` , `Cloud Development`
 #### 3️⃣: Having also professional experiences in `Project & Team Management` and `Front-end Development`
-#### 4️⃣:	<span> Currently working on Developing and Maintaining `WebSties` and `Telegram Bots` as Django Backend Developer and DevOps Engineer </span>
+#### 4️⃣:	<span> Currently working on Developing and Maintaining `WebSties` and `Telegram Bots` as Django Backend Developer and Cloud Developer </span>
 #### 5️⃣:	Fascinated by `Software Engineering`, `People` , `Solving Problems`, `Silence`
-#### 6️⃣:	You can reach me by typing `armanexplorer` evereywhere ;)
+#### 6️⃣:	You can reach me by typing `armanexplorer` evereywhere
    * [Linkedin](https://www.linkedin.com/in/armanexplorer)
    * [Telegram](https://t.me/armanexplorer)
    * [Email](mailto:armanexplorer@gmail.com)
