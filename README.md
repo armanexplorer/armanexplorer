@@ -1,3 +1,10 @@
+<!--
+[Find Badges](https://badges.pages.dev/)
+[All Badges](https://github.com/Ileriayo/markdown-badges)
+[All Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
+[Picture for auto dark/light](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to)
+-->
+
 # armanexplorer ⚡
 
 Educated and enthusiastic about
@@ -26,7 +33,13 @@ and fascinated by **Cloud for +3 years**.
 
 <div align="center">
 
-![My Contributinos](https://raw.githubusercontent.com/armanexplorer/armanexplorer/assets/dist/github-snake.svg)
+<!-- ![My Contributinos](https://raw.githubusercontent.com/armanexplorer/armanexplorer/assets/github-contribution-grid-snake.svg) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/armanexplorer/armanexplorer/assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/armanexplorer/armanexplorer/assets/github-contribution-grid-snake.svg" />
+  <img alt="github-contributions-snake" src="https://raw.githubusercontent.com/armanexplorer/armanexplorer/assets/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
@@ -75,6 +88,8 @@ and fascinated by **Cloud for +3 years**.
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+<div align="left">
+
 ## Complementary Skills 🎈
 
 I have learned these skills on my own as self-taught skills. Being a quick learner, these skills are vast in range, from front-end development to the experience of managing teams and projects and the experience of working with AI tools to create high-tech projects.
@@ -109,6 +124,8 @@ I have learned these skills on my own as self-taught skills. Being a quick learn
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</div>
 
 ## Intro Code 👨‍💻
 
