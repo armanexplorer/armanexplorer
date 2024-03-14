@@ -33,55 +33,47 @@ and fascinated by **Cloud for +3 years**.
 ### Backend 🧊
 
 ---
-  <br/>
-  <div>
-    <img src="https://img.shields.io/badge/django-0A66C2.svg?style=for-the-badge&logo=django&logoColor=white&color=092E20" alt="Django"/>
-    <img src="https://img.shields.io/badge/Python-0A66C2.svg?style=for-the-badge&logo=Python&logoColor=white&color=3776AB" alt="Python"/>
-    <img src="https://img.shields.io/badge/Redis-0A66C2.svg?style=for-the-badge&logo=Redis&logoColor=white&color=DC382D" alt="Redis"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-0A66C2.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white&color=4169E1" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/mongodb-0A66C2.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/mysql-0A66C2.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/SQLite-0A66C2.svg?style=for-the-badge&logo=SQLite&logoColor=white&color=003B57" alt="SQLite"/>
-    <img src="https://img.shields.io/badge/Celery-0A66C3.svg?style=for-the-badge&logo=Celery&logoColor=green&color=37814A" alt="Celery"/>
-    <img src="https://img.shields.io/badge/Swagger-0A66C2.svg?style=for-the-badge&logo=Swagger&logoColor=black&color=85EA2D" alt="Swagger"/>
-    <img src="https://img.shields.io/badge/OpenAPI-0A66C2.svg?style=for-the-badge&logo=OpenAPI Initiative&logoColor=white&color=6BA539" alt="OpenAPI"/>
-    <img src="https://img.shields.io/badge/curl-0A66C2.svg?style=for-the-badge&logo=curl&logoColor=white&color=073551" alt="curl"/>
-    <img src="https://img.shields.io/badge/Postman-0A66C2.svg?style=for-the-badge&logo=Postman&logoColor=white&color=FF6C37" alt="Postman"/>
-    <img src="https://img.shields.io/badge/Selenium-0A66C2.svg?style=for-the-badge&logo=Selenium&logoColor=white&color=43B02A" alt="Selenium"/>
-  </div>
-  <br/><br/>
-  
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
+![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![curl](https://img.shields.io/badge/curl-%23073551?style=for-the-badge&logo=curl&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 ---
 
 ### Cloud 🔮
 
 ---
-  <br/>
-  <div>
-    <img src="https://img.shields.io/badge/Github%20Actions-0A66C2.svg?style=for-the-badge&logo=GitHub%20Actions&logoColor=white&color=2088FF" alt="Github Actions"/>
-    <img src="https://img.shields.io/badge/Vercel-0A66C2.svg?style=for-the-badge&logo=Vercel&logoColor=white&color=000000" alt="Vercel"/>
-    <img src="https://img.shields.io/badge/Heroku-0A66C2.svg?style=for-the-badge&logo=Heroku&logoColor=white&color=430098" alt="Heroku"/>
-    <img src="https://img.shields.io/badge/Semaphore CI-0A66C2.svg?style=for-the-badge&logo=Semaphore CI&logoColor=white&color=19A974" alt="Semaphore CI"/>
-    <img src="https://img.shields.io/badge/Azure DevOps-0A66C2.svg?style=for-the-badge&logo=Azure DevOps&logoColor=white&color=0078D7" alt="Azure DevOps"/>
-    <img src="https://img.shields.io/badge/Azure Pipelines-0A66C2.svg?style=for-the-badge&logo=Azure Pipelines&logoColor=white&color=2560E0" alt="Azure Pipelines"/>
-    <img src="https://img.shields.io/badge/Gunicorn-0A66C2.svg?style=for-the-badge&logo=Gunicorn&logoColor=white&color=499848" alt="Gunicorn"/>
-    <img src="https://img.shields.io/badge/PM2-0A66C2.svg?style=for-the-badge&logo=PM2&logoColor=white&color=2B037A" alt="PM2"/>
-    <img src="https://img.shields.io/badge/Nginx-0A66C2.svg?style=for-the-badge&logo=Nginx&logoColor=white&color=009639" alt="Nginx"/>
-    <img src="https://img.shields.io/badge/Apache-0A66C2.svg?style=for-the-badge&logo=Apache&logoColor=white&color=D22128" alt="Apache"/>
-    <img src="https://img.shields.io/badge/Linux-0A66C2.svg?style=for-the-badge&logo=Linux&logoColor=white&color=FCC624" alt="Linux"/>
-    <img src="https://img.shields.io/badge/Windows-0A66C2.svg?style=for-the-badge&logo=Windows&logoColor=white&color=0078D6" alt="Windows"/>
-    <img src="https://img.shields.io/badge/CentOS-0A66C2.svg?style=for-the-badge&logo=centos&logoColor=white&color=262577" alt="CentOS"/>
-    <img src="https://img.shields.io/badge/Debian-0A66C2.svg?style=for-the-badge&logo=Debian&logoColor=white&color=A81D33" alt="Debian"/>
-    <img src="https://img.shields.io/badge/Ubuntu-0A66C2.svg?style=for-the-badge&logo=Ubuntu&logoColor=white&color=E95420" alt="Ubuntu"/>
-    <img src="https://img.shields.io/badge/Docker-0A66C2.svg?style=for-the-badge&logo=Docker&logoColor=white&color=2496ED" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Vagrant-0A66C2.svg?style=for-the-badge&logo=Vagrant&logoColor=white&color=1868F2" alt="Vagrant"/>
-    <img src="https://img.shields.io/badge/VMware-0A66C2.svg?style=for-the-badge&logo=VMware&logoColor=white&color=607078" alt="VMware"/>
-    <img src="https://img.shields.io/badge/GNU Bash-0A66C2.svg?style=for-the-badge&logo=GNU Bash&logoColor=white&color=4EAA25" alt="GNU Bash"/>
-    <img src="https://img.shields.io/badge/CMake-0A66C2.svg?style=for-the-badge&logo=CMake&logoColor=white&color=064F8C" alt="CMake"/>
-  </div>
-  <br/><br/>
 
-<div align="left">
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![SemaphoreCI](https://img.shields.io/badge/Semaphore%20CI-%2319A974.svg?style=for-the-badge&logo=SemaphoreCI&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=AzureDevOps&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0.svg?style=for-the-badge&logo=AzurePipelines&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+![pm2](https://img.shields.io/badge/PM2-2B037A.svg?style=for-the-badge&logo=PM2&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Complementary Skills 🎈
 
@@ -94,36 +86,29 @@ I have learned these skills on my own as self-taught skills. Being a quick learn
 ### Front-end Development & Desgin
 
 ---
-  <br/>
-  <div>
-    <img src="https://img.shields.io/badge/JavaScript-0A66C2.svg?style=for-the-badge&logo=JavaScript&logoColor=white&color=F7DF1E" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/typescript-0A66C2.svg?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/jQuery-0A66C2.svg?style=for-the-badge&logo=jQuery&logoColor=white&color=0769AD" alt="jQuery"/>
-    <img src="https://img.shields.io/badge/HTML5-0A66C2.svg?style=for-the-badge&logo=HTML5&logoColor=white&color=E34F26" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-0A66C2.svg?style=for-the-badge&logo=CSS3&logoColor=white&color=1572B6" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/Bootstrap-0A66C2.svg?style=for-the-badge&logo=Bootstrap&logoColor=white&color=7952B3" alt="Bootstrap"/>
-    <img src="https://img.shields.io/badge/react-0A66C2.svg?style=for-the-badge&logo=react&logoColor=white&color=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/Next.js-0A66C2.svg?style=for-the-badge&logo=nextdotjs&logoColor=white&color=000000" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Figma-0A66C2.svg?style=for-the-badge&logo=Figma&logoColor=white&color=F24E1E" alt="Figma"/>
-    <img src="https://img.shields.io/badge/Material Design-0A66C2.svg?style=for-the-badge&logo=Material Design&logoColor=white&color=757575" alt="Material Design"/>
-  </div>
-  <br/><br/>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575.svg?style=for-the-badge&logo=MaterialDesign&logoColor=white)
 
 ---
 
 ### Project & Team Management
 
 ---
-  <br/>
-  <div>
-    <img src="https://img.shields.io/badge/scrumalliance-0A66C2.svg?style=for-the-badge&logo=scrumalliance&logoColor=white&color=009FDA" alt="Scrum Alliance"/>
-    <img src="https://img.shields.io/badge/Slack-0A66C2.svg?style=for-the-badge&logo=Slack&logoColor=white&color=4A154B" alt="Slack"/>
-    <img src="https://img.shields.io/badge/Trello-0A66C2.svg?style=for-the-badge&logo=Trello&logoColor=white&color=0052CC" alt="Trello"/>
-    <img src="https://img.shields.io/badge/Jira-0A66C2.svg?style=for-the-badge&logo=Jira&logoColor=white&color=0052CC" alt="Jira"/>
-    <img src="https://img.shields.io/badge/ClickUp-0A66C2.svg?style=for-the-badge&logo=ClickUp&logoColor=white&color=7B68EE" alt="ClickUp"/>
-    <img src="https://img.shields.io/badge/Azure DevOps-0A66C2.svg?style=for-the-badge&logo=Azure DevOps&logoColor=white&color=0078D7" alt="Azure DevOps"/>
-  </div>
-</div>
+
+![Scrum Alliance](https://img.shields.io/badge/scrumalliance-0A66C2.svg?style=for-the-badge&logo=scrumalliance&logoColor=white&color=009FDA)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Intro Code 👨‍💻
 
