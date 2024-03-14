@@ -98,7 +98,7 @@ I have learned these skills on my own as self-taught skills. Being a quick learn
 
 ---
 
-### Front-end Development & Desgin
+### Front-end 🪩
 
 ---
 
@@ -115,7 +115,7 @@ I have learned these skills on my own as self-taught skills. Being a quick learn
 
 ---
 
-### Project & Team Management
+### Project & Team Management 🥸
 
 ---
 
