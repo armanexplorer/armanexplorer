@@ -1,3 +1,7 @@
 .markdownlint.*
 _data
 _site
+.sass-cache
+.jekyll-cache
+.bundle
+vendor

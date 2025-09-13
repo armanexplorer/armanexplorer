@@ -1,9 +1,14 @@
-markdown: GFM
-title: Senior Software Engineer | Backend Engineer | Python Developer | Django | Open to Relocation
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+title: Senior Software Engineer | Backend & DevOps Expert | Open to Relocation
 description: 6+ years building scalable web platforms with Python, Django, and cloud technologies. Proven leadership in high-impact projects, ready for global opportunities.
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
 
 defaults:
