@@ -62,8 +62,9 @@ I'm a Senior Python Backend Engineer with 6+ years of experience architecting sc
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armanexplorer&show_icons=true&theme=default&hide_border=true" alt="Arman's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanexplorer&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanexplorer&theme=default" alt="Arman's GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=armanexplorer&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanexplorer" alt="Arman's GitHub Streak" />
 </div>
 
 ---
